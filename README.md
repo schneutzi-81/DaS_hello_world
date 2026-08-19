@@ -15,4 +15,8 @@ This repository contains the planning docs for a greenfield Azure-native cost op
 - Engineering action list
 - Review workflow and backlog structure
 
+## Design system
+- Current design system link is private / login-gated.
+- Once the design tokens or screenshots are shared, the UI and docs can be aligned to that system.
+
 See `plan.md` for the full architecture and delivery breakdown.
